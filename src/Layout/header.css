@@ -1,0 +1,65 @@
+#header_div{
+    width: 100%;
+    margin: auto;
+    height: 58px;
+    background-color: #599bdd;
+}
+
+#company{
+    margin-left: 3%;
+    color: white;
+    margin-top: 0.5%;
+    position: absolute;
+    float: left;
+    font-size: 30px;
+}
+
+#searchbox{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 0.5%;
+    width: 450px;
+    height: 40px;
+    border-radius: 2px;
+    border: none;
+    font-size: 18px;
+}
+.icon{
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 1%;
+    font-size: 20px;
+    color: #599bdd;
+}
+#nav{
+    float: left;
+    width: 52%;
+    height: 55px;
+    margin-left: 47%;
+}
+
+.cart{
+    background-color: #599bdd;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 1%;
+    margin-left: 7%;
+    width: 120px;
+    height: 35px;
+    text-align: center;
+    border: none;
+    border-radius: 2px;
+}
+
+.cart:hover{
+    color: white;
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+.cartbadge{
+    margin-top: -0.5%;
+    position: absolute;
+    
+}

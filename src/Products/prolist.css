@@ -1,0 +1,22 @@
+li{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    margin-left: 5%;
+    margin-right: 0%;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+}
+ul{
+    width: 100%;
+    display: flex;
+}
+li:hover{
+    font-size: 21px;
+}
+
+.activelink{
+    background-color: #13c164;
+    font-size: 21px;
+}

@@ -1,0 +1,17 @@
+td{
+    width: 200px;
+    border: 1px solid #599bdd;
+    text-align: center;
+    font-size: 18px;
+    height: 100px;
+}
+th{
+    width: 200px;
+    border: 2px solid #599bdd;
+    text-align: center; 
+    font-size: 22px; 
+}
+.img{
+    width: 100px;
+    height: 100px;
+}

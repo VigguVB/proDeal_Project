@@ -1,0 +1,64 @@
+.card{
+    width:25%;
+    margin:2%;
+    margin-right: 6%;
+    height:445px;
+    box-shadow: 5px 10px 15px gray;
+    float: left;
+}
+
+.card > img{
+    height:250px;
+    width:80%;
+    margin-left: 10%;
+}
+
+.heart{
+    font-size: 25px;
+    margin-left: 8%;
+    margin-bottom: 5%;
+    cursor: pointer;
+}
+.trash{
+    font-size: 25px;
+    margin-left: 8%;
+    margin-bottom: 5%;
+    color: red; 
+    cursor: pointer;
+}
+#addTOCart{
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    background-color: orangered;
+    border: none;
+    margin-left: 12%;
+
+}
+#addTOCart:hover{
+    background-color: #0ea80e;
+}
+
+.addedToWish{
+    font-size: 25px;
+    margin-left: 8%;
+    margin-bottom: 5%;
+    cursor: pointer;
+    color:#c00845;
+}
+#messagediv{
+    width: 100%;
+    height: 50px;
+}
+#message{
+    text-align: center;
+    width: 60%;
+    height: 50px;
+    background-color: hsl(0, 96%, 47%);
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    margin-left: 20%;
+}
